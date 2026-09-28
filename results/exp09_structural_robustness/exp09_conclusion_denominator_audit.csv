@@ -1,0 +1,7 @@
+Level,Conclusion,NActiveVariants,NBothResolvedVariants,NSameRegimeVariants,NRetainedVariants,BothResolvedCoverage,SameRegimeCoverage,DirectionalRetention
+0.9,FiniteGovernance_RiskWorse,10,6,6,6,0.6,0.6,1
+0.9,FiniteGovernance_TrustWorse,10,6,6,4,0.6,0.6,0.666666666666667
+0.95,FiniteGovernance_RiskWorse,10,5,4,4,0.5,0.4,1
+0.95,FiniteGovernance_TrustWorse,10,5,4,4,0.5,0.4,1
+0.98,FiniteGovernance_RiskWorse,10,5,4,4,0.5,0.4,1
+0.98,FiniteGovernance_TrustWorse,10,5,4,4,0.5,0.4,1

@@ -1,0 +1,7 @@
+TrustModel,NApplicable,NRecovered,NRightCensored,RecoveryFraction,CensorFraction,MedianObservedRecovery
+T0,0,0,0,NaN,NaN,NaN
+T1,16,7,9,0.4375,0.5625,39.08
+T2,16,6,10,0.375,0.625,81.96
+T3,16,9,7,0.5625,0.4375,0.239999999999995
+T4,16,6,10,0.375,0.625,0.159999999999997
+T5,16,7,9,0.4375,0.5625,0.159999999999997

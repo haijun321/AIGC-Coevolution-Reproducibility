@@ -1,0 +1,5 @@
+Check,Pass,Value,ReferenceThreshold
+Finite reference derivatives,1,1,1
+Finite grid derivatives,1,1,1
+Reference cross-feedback signs,1,1,1
+Reference reduced Hurwitz,1,1,1

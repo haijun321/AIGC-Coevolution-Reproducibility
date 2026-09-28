@@ -1,0 +1,5 @@
+Family,Supported,Action
+thresholdForm,1,candidate_allowed
+auditBoundary,1,candidate_allowed
+aigcRiskForm,0,excluded_static_unsupported
+mutationRate,1,candidate_allowed

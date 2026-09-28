@@ -1,0 +1,2 @@
+FullRows,PrimarySameRegimeN,MaxCapacityMatchError,MaxEffectiveEError,MaxDecompositionError,MedianAbsCapacityToNet,MedianAbsAdaptToNet,MaxAbsAdaptToNet,MaxAbsDeltaIAdapt,RiskAdverseDirection,RiskAdverseMaterialTau1e3,TrustAdverseDirection,TrustAdverseMaterialTau1e3
+5600,638,1.66533453693773e-16,1.02695629777827e-15,9.43689574653696e-16,0.999999999864181,2.12259527155812e-09,0.757195831361316,8.02231982885426e-06,0.978056426332288,0.79153605015674,1,0.77115987460815

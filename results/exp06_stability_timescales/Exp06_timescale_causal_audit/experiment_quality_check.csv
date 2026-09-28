@@ -1,0 +1,7 @@
+Check,Pass,Value,Tolerance,Note
+All variants evaluated on one shared FULL equilibrium branch,1,8.47421056937581e-09,2e-05,max variant residual at shared FULL equilibria
+FULL spectral crossing found,1,NaN,NaN,shared-branch spectral test
+ALL-fast shared spectral path evaluated,1,NaN,NaN,
+FULL precritical equilibrium certified,1,NaN,NaN,time-domain cross-check
+FULL postcritical cycle certified,1,NaN,NaN,time-domain cross-check
+Joint scale gradient completed,1,5,5,shared FULL equilibrium branch

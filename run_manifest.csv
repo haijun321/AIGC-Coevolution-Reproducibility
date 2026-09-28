@@ -1,0 +1,8 @@
+Analysis,SourceLineage,Runner,IncludedResult,Evidence
+"Exp00-03,07,08-main",V10,RUN_CORE_SR.m,"results/exp00_numerical_validation; results/Exp01_representative_regimes; results/exp02_feedback_mechanisms; results/exp03_governance_factorial; results/exp07_trust_shocks; results/exp08_main_policy_comparison","frozen numerical outputs and reproduction runner included"
+Exp04,V10,exp04_final_code/RUN_EXP04_FINAL_SR_V4.m,"results/exp04_adaptation_risk; results/exp04_three_branch_comparability","frozen two-plane outputs; decomposition/count checks included in preflight"
+Exp05-P1 and Figure 5,V10,"RUN_EXP05_P1_INDEPENDENT_LHS_AIGC_PRCC_V10_SR_V3_FIX.m; BUILD_SR_FIGURE5_FINAL_REPAIRED_V1.m",results/exp05_independent_aigc_prcc,"frozen FULL outputs; independent source-to-panel/data validation included"
+Exp05 separate Morris screening,V10,v10_core/+aigc/exp05_global_sensitivity.m,results/exp05_morris_screening,"separate historical screening protocol; not pooled with primary Figure 5 LHS/PRCC"
+"Exp06,08-nesting",V10-P0.1,RUN_EXP06_EXP08_PAPER_CLOSURE_V10P01.m,"results/exp06_stability_timescales; results/exp08_nesting_audit","frozen numerical outputs and dedicated V10-P0.1 runner included"
+Exp09,V10,RUN_EXP09_STRUCTURAL_ROBUSTNESS_AUDIT_V10_FINAL.m,results/exp09_structural_robustness,"frozen structural-robustness outputs and runner included"
+Theory I-z,V10,RUN_THEORY_P1_IZ_STABILITY_AUDIT_V10_SR_V2.m,theory_iz_stability,"frozen local-stability audit outputs and runner included"

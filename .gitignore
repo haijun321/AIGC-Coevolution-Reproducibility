@@ -1,0 +1,14 @@
+# Fresh MATLAB runs and transient state
+v10_core/outputs/
+v10_p01_core/**/outputs/
+**/checkpoint_*.mat
+**/run_log.txt
+*.asv
+
+# Generated local environment captures
+MATLAB_ENVIRONMENT_LOCAL.txt
+
+# Local audit artifacts
+__pycache__/
+*.pyc
+.DS_Store

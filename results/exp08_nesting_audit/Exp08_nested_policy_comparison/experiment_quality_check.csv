@@ -1,0 +1,12 @@
+Check,Pass,Value,Tolerance,Note
+Strict nested trajectory/objective audit,1,0,2e-07,core mode
+Equal-budget nested core not worse than fixed,1,-2.13217134836241e-05,2e-07,mathematical nesting
+Expanded-search nested core not worse than fixed,1,-2.13217134836241e-05,2e-07,mathematical nesting
+Expanded-search candidate propagated into selected core policy,1,0,2e-07,4B candidate pool is not discarded
+Zero dynamic gains allowed,1,0,0,policy family contains fixed subfamily
+Dynamic u0 spans fixed interval,1,1,0,u0 is an explicit dynamic policy variable
+B/2B/4B long-search prefixes completed,1,12,3,
+Held-out core tests produced,1,36,1,tests are not used for tuning
+Expanded core policy reaches held-out tests,1,36,1,expanded candidate must be externally evaluated
+Held-out total tests produced,1,36,1,implementation-aware layer
+Expanded total policy reaches held-out tests,1,36,1,expanded candidate must be externally evaluated

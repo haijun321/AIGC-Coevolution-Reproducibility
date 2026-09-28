@@ -1,0 +1,9 @@
+Check,Pass,Value,Tolerance,Note
+At least one active structural variant,1,10,1,
+No unsupported variant entered active denominator,1,0,0,
+No no-op variant entered active denominator,1,0.00755510736478038,1e-10,
+No baseline-equivalent variant entered active denominator,1,0,0,
+No duplicate variant entered active denominator,1,0,0,
+All requested near-ideal levels present,1,3,3,
+Denominator ordering valid,1,0,0,
+Activation audit includes every candidate,1,13,11,

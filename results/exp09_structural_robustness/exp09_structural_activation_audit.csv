@@ -1,0 +1,14 @@
+CandidateIndex,Family,Setting,StructuralType,TargetEquation,MATLABField,IsBaseline,StaticSupported,MaxRHSDiff,MedianRHSDiff,NChangedProbes,BaselineEquivalent,DuplicateOf,Active,ExclusionReason
+1,baseline,baseline,baseline,FULL baseline,baseline,1,1,0,0,0,1,,1,baseline_reference
+2,thresholdForm,hill,functional_form,trust threshold/gating function,mode.thresholdForm,0,1,0.00755510736478038,0.00203481681573561,40,0,,1,active
+3,thresholdForm,piecewise,functional_form,trust threshold/gating function,mode.thresholdForm,0,1,0.0263128464237831,0.00167564896549737,40,0,,1,active
+4,auditBoundary,sqrt,functional_form,audit-controller boundary factor,mode.auditBoundaryForm,0,1,0.0306083326181578,0.00526714717101778,39,0,,1,active
+5,auditBoundary,projected,functional_form,audit-controller boundary factor,mode.auditBoundaryForm,0,1,0.0690852165086348,0.0104723863686093,39,0,,1,active
+6,aigcRiskForm,saturating,functional_form,AIGC risk-injection amplification,mode.aigcRiskForm,0,0,0.0730169405470471,0.010911016917144,40,0,,0,unsupported_static
+7,aigcRiskForm,hill,functional_form,AIGC risk-injection amplification,mode.aigcRiskForm,0,0,0.030891782539135,0.0046161994649455,40,0,,0,unsupported_static
+8,mutationRate,0,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,0,1,0.0392559041243382,0.0323459759589906,40,0,,1,active
+9,mutationRate,1e-05,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,0,1,0.0392480529435133,0.0323395067637988,40,0,,1,active
+10,mutationRate,0.0001,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,0,1,0.0391773923160895,0.0322812840070726,40,0,,1,active
+11,mutationRate,0.001,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,0,1,0.0384707860418514,0.0316990564398108,40,0,,1,active
+12,mutationRate,0.005,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,0,1,0.0353303137119044,0.0291113783630915,40,0,,1,active
+13,mutationRate,0.01,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,0,1,0.0314047232994705,0.0258767807671925,40,0,,1,active

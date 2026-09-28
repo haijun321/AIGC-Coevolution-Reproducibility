@@ -1,0 +1,5 @@
+Response,Subset,Threshold,NUsed,FavorableDirection,AdverseDirection,AbsMaterial,AdverseMaterial
+DeltaI_net,SameRegimeThree,0.001,638,0.0219435736677116,0.978056426332288,0.79153605015674,0.79153605015674
+DeltaT_net,SameRegimeThree,0.001,638,0,1,0.77115987460815,0.77115987460815
+DeltaI_adapt,SameRegimeThree,0.001,638,0.322884012539185,0.677115987460815,0,0
+DeltaT_adapt,SameRegimeThree,0.001,638,0.29153605015674,0.70846394984326,0,0

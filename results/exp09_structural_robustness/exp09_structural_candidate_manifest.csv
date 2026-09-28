@@ -1,0 +1,14 @@
+CandidateIndex,Family,Setting,StructuralType,TargetEquation,MATLABField,StaticSupported
+1,baseline,baseline,baseline,FULL baseline,baseline,1
+2,thresholdForm,hill,functional_form,trust threshold/gating function,mode.thresholdForm,1
+3,thresholdForm,piecewise,functional_form,trust threshold/gating function,mode.thresholdForm,1
+4,auditBoundary,sqrt,functional_form,audit-controller boundary factor,mode.auditBoundaryForm,1
+5,auditBoundary,projected,functional_form,audit-controller boundary factor,mode.auditBoundaryForm,1
+6,aigcRiskForm,saturating,functional_form,AIGC risk-injection amplification,mode.aigcRiskForm,0
+7,aigcRiskForm,hill,functional_form,AIGC risk-injection amplification,mode.aigcRiskForm,0
+8,mutationRate,0,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,1
+9,mutationRate,1e-05,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,1
+10,mutationRate,0.0001,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,1
+11,mutationRate,0.001,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,1
+12,mutationRate,0.005,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,1
+13,mutationRate,0.01,switching_parameter,replicator-switching terms,p.epsP/p.epsF/p.epsU,1

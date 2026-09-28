@@ -1,0 +1,37 @@
+function mode = full_mode()
+%FULL_MODE Complete ten-state V10 model.
+mode.name = 'F0_FULL';
+mode.enableInformation = true;
+mode.informationFeedback = true;
+mode.enableTrust = true;
+mode.trustFeedback = true;
+mode.trustAsymmetric = true;
+mode.useMemory = true;
+mode.useThreshold = true;
+mode.thresholdForm = 'logistic';
+mode.useAState = true;
+mode.useLState = true;
+mode.useAIGC = true;
+mode.dynamicAudit = true;
+mode.fixedAudit = false;
+mode.fixedAuditIntensity = 0.70;
+mode.endogenousEvasion = true;
+mode.idealGovernance = false;
+mode.handleProbabilityForm = 'exponential';
+mode.stageProbabilityForm = 'linear';
+mode.positiveExperienceForm = 'integrated';
+mode.aigcAmplificationForm = 'linear';
+mode.auditBoundaryForm = 'logistic';
+mode.fixedE = false;
+mode.fixedEValue = NaN;
+mode.costDynamic = true;
+mode.costFixed = false;
+mode.costPolicy = false;
+mode.activeMask = true(10,1);
+mode.exogenousI = false;
+mode.exogenousT = false;
+mode.exogenousA = false;
+mode.exogenousL = false;
+mode.exogenousE = false;
+mode.shock = aigc.no_shock();
+end

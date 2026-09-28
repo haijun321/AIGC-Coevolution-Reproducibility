@@ -1,0 +1,2 @@
+RhoLeft,RhoRight,RhoMid,ComplexRealLeft,ComplexRealRight,ComplexImagLeft,ComplexImagMid,ComplexImagRight,Transversality,MinEigenvectorOverlap,MaxPairEigenvalueStep,PairContinuous,OtherModesStable,ClipSafetyMargin,ClipSafe,SimpleComplexPair,HopfCandidate
+0.745,0.79,0.7675,1.1505155243223e-05,0.000732974448224295,0.112096936005923,0.113274827090734,0.114453694973315,0.0320653019102699,0.999962016904255,0.00123272186319794,1,1,0.053816059251508,1,1,0

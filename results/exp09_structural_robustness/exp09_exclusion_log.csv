@@ -1,0 +1,3 @@
+CandidateIndex,Family,Setting,StructuralType,TargetEquation,MATLABField,IsBaseline,StaticSupported,MaxRHSDiff,MedianRHSDiff,NChangedProbes,BaselineEquivalent,DuplicateOf,Active,ExclusionReason
+6,aigcRiskForm,saturating,functional_form,AIGC risk-injection amplification,mode.aigcRiskForm,0,0,0.0730169405470471,0.010911016917144,40,0,,0,unsupported_static
+7,aigcRiskForm,hill,functional_form,AIGC risk-injection amplification,mode.aigcRiskForm,0,0,0.030891782539135,0.0046161994649455,40,0,,0,unsupported_static
